@@ -1,0 +1,8 @@
+&dos
+               
+                      outdir = './out'
+                 DeltaE=0.1
+                    fildos = '1x1_MoS2.dos.dat'
+                    prefix = '1x1_MoS2'
+                    degauss = 0.01
+/

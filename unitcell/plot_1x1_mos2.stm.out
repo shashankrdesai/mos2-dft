@@ -1,0 +1,61 @@
+
+     Program POST-PROC v.6.5Max starts on  8Jun2022 at  2:40:55 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on    16 processors
+
+     MPI processes distributed on     1 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =      16
+
+     Reading xml data from directory:
+
+     ./out/1x1_MoS2.save/
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PW
+                           (   1   4   0   0   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+               file Mo.pw-mt_fhi.UPF: wavefunction(s)  4f renormalized
+               file S.pw-mt_fhi.UPF: wavefunction(s)  4f renormalized
+
+     Parallelization info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Min          88      34     10                15714     3948     638
+     Max          89      35     11                15731     3981     663
+     Sum        1417     559    163               251567    63583   10347
+
+
+     Calling punch_plot, plot_num =   5
+     Use the true wfcs
+     Sample bias          = -1.0000 eV
+
+     Occupied bands:      9
+
+       Fermi energy:      -0.11 eV
+
+         Gap energy:      -1.98 eV
+     STM          :      9.80s CPU     11.06s WALL (       1 calls)
+     Writing data to file  1x1_mos2-1.0
+     Reading data from file  1x1_mos2-1.0
+
+     Writing data to be plotted to file 1x1_MoS2-1.0.xsf
+     Plot Type: 3D                     Output format: XCrySDen     
+
+     POST-PROC    :     13.80s CPU     15.30s WALL
+
+
+   This run was terminated on:   2:41:11   8Jun2022            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

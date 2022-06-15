@@ -1,0 +1,9 @@
+&BANDS
+               
+                      outdir = './out'
+                 
+                      prefix = '1x1_MoS2'
+                    filband = '1x1_MoS2.bands.dat'
+/
+
+

@@ -1,0 +1,8 @@
+&projwfc
+               
+                      outdir = './out'
+                 DeltaE=0.1
+                    filproj = '1x1_MoS2.pdos.dat'
+                    prefix = '1x1_MoS2'
+                    degauss = 0.02
+/

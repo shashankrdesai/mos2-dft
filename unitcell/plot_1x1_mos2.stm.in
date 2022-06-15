@@ -1,0 +1,15 @@
+&inputpp
+ prefix ='1x1_MoS2'
+ outdir = './out',
+ filplot = '1x1_mos2-1.0'
+ sample_bias=-0.0735d0,
+ plot_num=5,
+/
+&plot
+  nfile = 1
+  filepp(1) = '1x1_mos2-1.0'
+  weight(1) = 1
+  iflag=3,
+  output_format=5,
+  fileout='1x1_MoS2-1.0.xsf',
+/
