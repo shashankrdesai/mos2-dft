@@ -1,0 +1,48 @@
+
+     Program DOS v.6.5Max starts on 26May2022 at  0:11:57 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on    16 processors
+
+     MPI processes distributed on     1 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =      16
+
+     Reading xml data from directory:
+
+     ./out/3x3_MoS2.save/
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PW
+                           (   1   4   0   0   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+               file Mo.pw-mt_fhi.UPF: wavefunction(s)  4f renormalized
+               file S.pw-mt_fhi.UPF: wavefunction(s)  4f renormalized
+
+     Parallelization info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Min         781     312     85               138748    35106    5035
+     Max         783     313     86               138753    35113    5044
+     Sum       12507    4993   1369              2219997   561725   80633
+
+
+     Gaussian broadening (read from input): ngauss,degauss=   0    0.050000
+
+
+     DOS          :      3.86s CPU      3.98s WALL
+
+
+   This run was terminated on:   0:12: 1  26May2022            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=
