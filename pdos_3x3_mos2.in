@@ -2,7 +2,7 @@
                
                       outdir = './out'
                  DeltaE=0.1
-                    filproj = '3x3_MoS2.pdos.dat'
-                    prefix = '3x3_MoS2'
-                    degauss=0.02
+                    filproj = '3x3_MoS2_mo.pdos.dat'
+                    prefix = '3x3_MoS2_mo'
+                    degauss = 0.02
 /

@@ -1,5 +1,5 @@
 
-     Program DOS v.6.5Max starts on 26May2022 at  0:11:57 
+     Program DOS v.6.5Max starts on  7Jun2022 at 19:49:44 
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
@@ -16,7 +16,7 @@
 
      Reading xml data from directory:
 
-     ./out/3x3_MoS2.save/
+     ./out/3x3_MoS2_mo.save/
 
      IMPORTANT: XC functional enforced from input :
      Exchange-correlation= PW
@@ -30,18 +30,18 @@
      Parallelization info
      --------------------
      sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
-     Min         781     312     85               138748    35106    5035
-     Max         783     313     86               138753    35113    5044
-     Sum       12507    4993   1369              2219997   561725   80633
+     Min         795     318     84               141338    35744    4894
+     Max         797     319     85               141341    35751    4905
+     Sum       12727    5089   1357              2261433   571933   78355
 
 
-     Gaussian broadening (read from input): ngauss,degauss=   0    0.050000
+     Gaussian broadening (read from input): ngauss,degauss=   0    0.010000
 
 
-     DOS          :      3.86s CPU      3.98s WALL
+     DOS          :     13.58s CPU     14.05s WALL
 
 
-   This run was terminated on:   0:12: 1  26May2022            
+   This run was terminated on:  19:49:58   7Jun2022            
 
 =------------------------------------------------------------------------------=
    JOB DONE.

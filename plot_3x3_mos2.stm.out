@@ -1,5 +1,5 @@
 
-     Program POST-PROC v.6.5Max starts on  8Jun2022 at 14:17:41 
+     Program POST-PROC v.6.5Max starts on  7Jun2022 at 20:27:32 
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
@@ -16,7 +16,7 @@
 
      Reading xml data from directory:
 
-     ./out/3x3_MoS2.save/
+     ./out/3x3_MoS2_mo.save/
 
      IMPORTANT: XC functional enforced from input :
      Exchange-correlation= PW
@@ -30,9 +30,9 @@
      Parallelization info
      --------------------
      sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
-     Min         781     312     83               138748    35106    4801
-     Max         783     313     84               138753    35113    4808
-     Sum       12507    4993   1333              2219997   561725   76863
+     Min         795     318     84               141338    35744    4894
+     Max         797     319     85               141341    35751    4905
+     Sum       12727    5089   1357              2261433   571933   78355
 
 
      Calling punch_plot, plot_num =   5
@@ -41,20 +41,20 @@
 
      Occupied bands:     78
 
-       Fermi energy:      -0.46 eV
+       Fermi energy:      -0.84 eV
 
-         Gap energy:      -1.26 eV
-     STM          :    102.18s CPU    120.03s WALL (       1 calls)
-     Writing data to file  3x3_mos2-1.0
-     Reading data from file  3x3_mos2-1.0
+         Gap energy:      -0.03 eV
+     STM          :     97.80s CPU    133.22s WALL (       1 calls)
+     Writing data to file  3x3_mos2_mo-1.0
+     Reading data from file  3x3_mos2_mo-1.0
 
-     Writing data to be plotted to file 3x3_MoS2-1.0.xsf
+     Writing data to be plotted to file 3x3_MoS2_mo-1.0.xsf
      Plot Type: 3D                     Output format: XCrySDen     
 
-     POST-PROC    :   2m 8.16s CPU   2m30.33s WALL
+     POST-PROC    :   2m 0.95s CPU   2m37.92s WALL
 
 
-   This run was terminated on:  14:20:12   8Jun2022            
+   This run was terminated on:  20:30:10   7Jun2022            
 
 =------------------------------------------------------------------------------=
    JOB DONE.

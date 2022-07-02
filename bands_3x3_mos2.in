@@ -2,8 +2,8 @@
                
                       outdir = './out'
                  
-                      prefix = '3x3_MoS2'
-                    filband = '3x3_MoS2.bands.dat'
+                      prefix = '3x3_MoS2_mo'
+                    filband = '3x3_MoS2_mo.bands.dat'
 /
 
 
