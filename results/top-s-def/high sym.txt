@@ -1,0 +1,13 @@
+high sym
+0
+0.5840
+0.9211
+1.5954
+
+
+ho, lu 
+-1.0925    0.1686
+
+Fermi energy:      -0.46 eV
+
+         Gap energy:      -1.26 eV
