@@ -1,0 +1,13 @@
+high-symmetry point:
+0
+0.5785
+0.9124
+1.5803
+
+
+highest occupied, lowest unoccupied level (ev):
+-0.8587   -0.8179
+
+Fermi energy:      -0.84 eV
+
+         Gap energy:      -0.03 eV
